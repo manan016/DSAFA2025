@@ -67,5 +67,6 @@ int main() {
 	s.peek();
 	s.pop();
 	s.pop();
+	return 0;
 
 }
